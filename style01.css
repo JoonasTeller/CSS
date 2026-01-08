@@ -41,8 +41,8 @@ body{
     display: block; /*teeb kastiks*/
     float: left; /*joondab vasakule*/
     line-height: 40px; /*teksti kõrgus*/
-     padding: 0 20px 0 0;
-     /*padding-right: 20px; teeb seda vajadusel kiiremini*/
+    padding: 0 20px 0 0;
+    /*padding-right: 20px; teeb seda vajadusel kiiremini*/
 }
 .content{
     padding: 10px 20px;
