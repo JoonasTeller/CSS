@@ -4,8 +4,10 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
 .nav li{
     display: block;
+    margin: auto;
     float: left;
     padding: 20px 30px;
 }
@@ -55,7 +57,7 @@ body {
     background-color: #858383;
     display: block;
     padding: 30px;
-    text-align: center;
+    
     position: fixed;
     left: 0;
     bottom: 0;
@@ -65,4 +67,7 @@ body {
 
 .footer li{
   color: #ffff;
+  text-decoration: none;
+  border: none;
+  display: block;
 }
