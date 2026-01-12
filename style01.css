@@ -3,3 +3,62 @@
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.header {
+  overflow: hidden;
+  color: #ffffff;
+  padding: 64px 24px;
+  line-height: 100px;
+  display: grid;
+  place-items: center;
+  height: 200px;
+  text-decoration: none;
+}
+
+.header button{
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.header li{
+    
+}
+
+h1 {
+  font-size: 64px;
+}
+
+body {
+ background-image: url("Pildid/coolbackgrounds-fractalize-clear_lagoon.png");
+ background-color: #ffffff;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-size: 1920px 550px;
+}
+
+.nav{
+    
+}
+
+.footer{
+    background-color: #858383;
+    display: block;
+    padding: 30px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 24px;
+}
+
+.footer li{
+  color: #ffff;
+}
