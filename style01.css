@@ -4,6 +4,12 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.nav li{
+    display: block;
+    float: left;
+    padding: 20px 30px;
+}
+
 .header {
   overflow: hidden;
   color: #ffffff;
@@ -43,9 +49,7 @@ body {
  background-size: 1920px 550px;
 }
 
-.nav{
-    
-}
+
 
 .footer{
     background-color: #858383;
