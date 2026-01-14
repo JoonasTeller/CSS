@@ -36,6 +36,7 @@
 
 .header ul{
     height: 265px;
+    
 }
 
 .header li{
@@ -71,8 +72,19 @@
 
 .footer ul{
     height: 64px;
+    margin: auto;
 }
 
 .footer li{
     color: white;
+    text-align: center;
+    font-family: 'Montserrat', black;
+    font-size: 24px;
+}
+
+.background{
+ background-image: url("Pildid/coolbackgrounds-fractalize-clear_lagoon.png");
+ background-color: #cccccc;
+ background-repeat: no-repeat;
+ background-size: cover;
 }
