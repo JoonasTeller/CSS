@@ -63,3 +63,16 @@
 .content li{
     
 }
+
+.footer{
+    background-color: black;
+    opacity: 64%;
+}
+
+.footer ul{
+    height: 64px;
+}
+
+.footer li{
+    color: white;
+}
