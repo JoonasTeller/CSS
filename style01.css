@@ -1,0 +1,62 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Montserrat', black;
+}
+
+.container{
+    margin: auto;
+}
+
+.nav{
+    padding: 12px;
+}
+
+.nav ul{
+    height: 50px;
+    list-style-type: none;
+}
+
+.nav a{
+    text-decoration: none;
+    color: black;
+}
+
+.nav li{
+    display: block;
+    float: left;
+    padding: 0px 24px;
+    font-weight: 18px;
+    font-size: 18px;
+}
+
+.header{
+    
+}
+
+.header ul{
+    height: 265px;
+}
+
+.header li{
+    text-align: center;
+    font-family: 'Montserrat', black;
+    font-weight: 18px;
+}
+
+.header h1{
+    font-size: 64px;
+}
+
+.content{
+
+}
+
+.content h1{
+    font-family: 'Montserrat', black;
+    font-size: 36px;
+}
+
+.content ul{
+    height: 400px;
+}
