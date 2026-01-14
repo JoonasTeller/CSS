@@ -60,9 +60,7 @@
 }
 
 .img{  
-    float: right;
-    clear: right;
-    display: block;
+    
 }
 
 .content h1{
@@ -72,6 +70,7 @@
 
 .content ul{
     height: 400px;
+    padding: 24px 0px;
 }
 
 .content li{
