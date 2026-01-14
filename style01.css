@@ -42,6 +42,7 @@
 .header li{
     text-align: center;
     font-family: 'Montserrat', black;
+    list-style-type: none;
 }
 
 .header h1{
@@ -53,7 +54,15 @@
 }
 
 .content{
+    max-width: 50%;
+    margin: auto;
+    line-height: 1.5;
+}
 
+.img{  
+    float: right;
+    clear: right;
+    display: block;
 }
 
 .content h1{
@@ -66,11 +75,13 @@
 }
 
 .content li{
-    
+    list-style-type: none
 }
 
 .content p{
+    max-width: 50%;
     font-size: 15px;
+    padding: 36px 0px;
 }
 
 .content b{
@@ -83,7 +94,7 @@
 }
 
 .footer ul{
-    height: 64px;
+    padding: 64px;
 }
 
 .footer li{
@@ -91,6 +102,7 @@
     text-align: center;
     font-family: 'Montserrat', black;
     font-size: 24px;
+    list-style-type: none;
 }
 
 .background{
