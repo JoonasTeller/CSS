@@ -48,6 +48,10 @@
     font-size: 64px;
 }
 
+.header p{
+    font-size: 24px;
+}
+
 .content{
 
 }
@@ -63,6 +67,14 @@
 
 .content li{
     
+}
+
+.Tekst1 p{
+    font-size: 18px;
+}
+
+.Tekst2 p{
+    font-size: 15px;
 }
 
 .footer{
